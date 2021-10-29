@@ -16,4 +16,10 @@ https://www.kaggle.com/mustafacicek/marketing-analytics-rfm-analysis
 
 https://www.kaggle.com/mustafacicek/marketing-analytics-forecasting
 
+For Online Retail Dataset:
+
+https://archive.ics.uci.edu/ml/datasets/online+retail
+
+https://www.kaggle.com/carrie1/ecommerce-data
+
 You can reach prepared data from here https://www.kaggle.com/mustafacicek/online-retail-final
